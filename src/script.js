@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       duration: 5,
       instruction: "Get Ready",
-      description: "Relax, get comfortable.",
+      description: "Relax, get comfortable. Breathe in through your nose and out through your mouth.",
     },
     {
       duration: 30,
